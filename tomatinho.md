@@ -6,7 +6,7 @@ Você acha que vai reprovar todas as disciplinas?<br/>
 Não se desespere!<br/>
 
 O Tomatinho está aqui para te salvar.<br/> 
-Sou um projeto da [ufabc.dojo](fb.com/ufabcdojo), então se isso aqui te ajudar, todo apoio por lá é mais do que bem-vindo.<br/>
+Sou um projeto da [ufabc.dojo](http://fb.com/ufabcdojo), então se isso aqui te ajudar, todo apoio por lá é mais do que bem-vindo.<br/>
 
 Boa sorte.
 
@@ -114,7 +114,7 @@ Denis Gustavo Fantinato - não localizado <br/>
 
 #### Base Experimental das Ciências Naturais
 
-[Site oficial da Disciplina](becn.ufabc.edu.br) <br/>
+[Site oficial da Disciplina](http://becn.ufabc.edu.br) <br/>
 
 ---
 
