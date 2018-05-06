@@ -15,7 +15,7 @@ Boa sorte.
 
 Geralmente, para comunicar-se com os alunos, a tendência é que os professores utilizem algum site, grupo, blog, e-mail, twitter ou snapchat. Aqui está tudo compilado por disciplina e pode facilitar a vida de vocês. Acaso não constar algum professor e você tiver a informação. Manda pra gente no [nosso facebook](http://fb.com/ufabcdojo) que editamos!
 
-#### :hocho: Bases Matemáticas
+#### Bases Matemáticas
 
 [Site oficial da disciplina](http://gradmat.ufabc.edu.br/disciplinas/bm/) <br/>
 [Grupo no Facebook da disciplina](https://www.facebook.com/groups/bases.matematicas/) <br/>
@@ -34,7 +34,7 @@ Guilherme da Costa Pereira Innocenti - não localizado. <br/>
 Valdecir Marvulle - não localizado <br/>
 Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado) <br/>
 
-#### :bulb: Bases Conceituais da Energia
+#### Bases Conceituais da Energia
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/281338875328079/)<br/>
 [João Manoel Losada Moreira](https://sites.google.com/site/bc0207energorigconveuso/)<br/>
@@ -46,7 +46,7 @@ Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado
 Daniel Jonas Dezan - não localizado <br/>
 Maurício Guerreiro Martinho dos Santos - geralmente usa SITE (ainda não criado/localizado) <br/>
 
-#### :herb: Evolução e Diversificação da Vida na Terra 
+#### Evolução e Diversificação da Vida na Terra 
 
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
@@ -61,7 +61,7 @@ Ana Paula de Moraes - não localizado <br/>
 Márcio de Souza Werneck - não localizado <br/>
 Meiri Aparecida Miranda - não localizado <br/>
 
-#### :gun: Estrutura da Matéria
+#### Estrutura da Matéria
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/238814452879833/) <br/>
 [Pieter Willem Westera](http://professor.ufabc.edu.br/~pieter.westera/) <br/>
@@ -78,7 +78,7 @@ Alexsandre Figueiredo Lago - não localizado <br/>
 Fernanda de Lourdes Souza - não localizado <br/>
 Gustavo Morari do Nascimento - não localizado <br/>
 
-#### :computer: Bases Computacionais da Ciência
+#### Bases Computacionais da Ciência
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/375859532463962/) <br/>
 Ronaldo Carlos Prati - usa TIDIA (ainda não criado) <br/>
@@ -107,7 +107,7 @@ Carlo Kleber da Silva Rodrigues - não localizado <br/>
 Carla Negri Lintzmeyer - não localizado <br/>
 Denis Gustavo Fantinato - não localizado <br/>
 
-#### :chart_with_upwards_trend: Base Experimental das Ciências Naturais
+#### Base Experimental das Ciências Naturais
 
 [Site oficial da Disciplina](http://becn.ufabc.edu.br) <br/>
 
