@@ -71,7 +71,7 @@ José Carlos Rodrigues Silva - cria grupo no Google (lol) <br/>
 Julian Andres Munevar Cagiga - não localizado <br/>
 Hueder Paulo Moisés de Oliveira - não localizado <br/>
 Sérgio Henrique Bezerra de Sousa Leal - não localizado <br/>
-Marcos Donizeti Sampaio - não localizado <br/>
+Marcos Donizeti Sampaio - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Débora Alvim - não localizado <br/>
 Rafael Cava Mori - não localizado <br/>
 Alexsandre Figueiredo Lago - não localizado <br/>
@@ -127,12 +127,12 @@ Denis Gustavo Fantinato - não localizado <br/>
 
 ## Guias Aleatórios dos Legumes
 
-[Projeto Pedagógico do BCT Resumido](https://drive.google.com/open?id=1gXaJoiYTfjruzTEsMsX7PxU3zYVIYRwV)
-[Projeto Pedagógico do BCH Resumido](https://drive.google.com/open?id=1n93v3Af5i3CE8pw8TXzyuGCCdQTe4I7w)
-[PDF Mágico | BCH](https://drive.google.com/open?id=1PyABnRHFIgSkxVfef2_VRbrXrNFynTo5U6JO9XvMUXk)
-[PDF Mágico | BCT](https://drive.google.com/open?id=1PyABnRHFIgSkxVfef2_VRbrXrNFynTo5U6JO9XvMUXk)
-[Como Chegar na UFABC](https://drive.google.com/open?id=1asIk6tUj96gCxQoIgGLB6NDIg20myzFy)
-[Bebam Bebsi: como não morrer de fome na UFABC](https://drive.google.com/open?id=1V8SO_Hia0L2hzeM4aD5LlqT0vaNcZtPY)
-[Dicas Marotas e Aleatórias](https://drive.google.com/open?id=1V3nIdHd6TGsia7Td_AX-PpQAPV509uSM)
+[Projeto Pedagógico do BCT Resumido](https://drive.google.com/open?id=1gXaJoiYTfjruzTEsMsX7PxU3zYVIYRwV) <br/>
+[Projeto Pedagógico do BCH Resumido](https://drive.google.com/open?id=1n93v3Af5i3CE8pw8TXzyuGCCdQTe4I7w) <br/>
+[PDF Mágico | BCH](https://drive.google.com/open?id=1PyABnRHFIgSkxVfef2_VRbrXrNFynTo5U6JO9XvMUXk) <br/>
+[PDF Mágico | BCT](https://drive.google.com/open?id=1PyABnRHFIgSkxVfef2_VRbrXrNFynTo5U6JO9XvMUXk) <br/>
+[Como Chegar na UFABC](https://drive.google.com/open?id=1asIk6tUj96gCxQoIgGLB6NDIg20myzFy) <br/>
+[Bebam Bebsi: como não morrer de fome na UFABC](https://drive.google.com/open?id=1V8SO_Hia0L2hzeM4aD5LlqT0vaNcZtPY) <br/>
+[Dicas Marotas e Aleatórias](https://drive.google.com/open?id=1V3nIdHd6TGsia7Td_AX-PpQAPV509uSM) <br/>
 
 ---
