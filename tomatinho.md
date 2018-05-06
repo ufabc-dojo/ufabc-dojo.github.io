@@ -5,7 +5,8 @@ Está tudo uma desgraça no quadrimestre?<br/>
 Você acha que vai reprovar todas as disciplinas?<br/>
 Não se desespere!<br/>
 
-O Tomatinho está aqui para te salvar. Sou um projeto da [ufabc.dojo](fb.com/ufabcdojo), então se isso aqui te ajudar, todo apoio por lá é mais do que bem-vindo.
+O Tomatinho está aqui para te salvar.<br/> 
+Sou um projeto da [ufabc.dojo](fb.com/ufabcdojo), então se isso aqui te ajudar, todo apoio por lá é mais do que bem-vindo.<br/>
 
 Boa sorte.
 
@@ -52,7 +53,7 @@ Geralmente, para comunicar-se com os alunos, a tendência é que os professores 
 
 #### Estrutura da Matéria
 
-[Grupo no Facebook da Disciplina] (https://www.facebook.com/groups/238814452879833/) <br/>
+[Grupo no Facebook da Disciplina](https://www.facebook.com/groups/238814452879833/) <br/>
 
 
 #### Bases Conceituais da Energia
