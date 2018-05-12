@@ -113,7 +113,7 @@ Denis Gustavo Fantinato - não localizado <br/>
 
 #### Ciência, Tecnologia e Sociedade
 
-Angela Terumi Fushita - TIDIA | CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/>
+Angela Terumi Fushita - TIDIA: CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/>
 
 #### Identidade e Cultura
 
