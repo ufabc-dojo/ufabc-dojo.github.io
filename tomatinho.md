@@ -111,6 +111,36 @@ Denis Gustavo Fantinato - não localizado <br/>
 
 [Site oficial da Disciplina](http://becn.ufabc.edu.br) <br/>
 
+#### Ciência, Tecnologia e Sociedade
+
+Angela Terumi Fushita - TIDIA | CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/>
+
+#### Identidade e Cultura
+
+[Andrea Paula dos Santos Oliveira Kamensky](https://identidadesculturas.wordpress.com/) <br/>
+[Ana Maria Dietrich](http://identidadeseculturasanadiet.blogspot.com.br/) <br/>
+
+#### Temas e Problemas em Filosofia
+
+[Roque da Costa Caiero](http://roquecaiero.wixsite.com/logica-filosofia/temas-em-filosofia) <br/>
+[Suze de Oliveira Piza](https://sites.google.com/site/suzepizaufabc/home/temas-e-problemas-da-filosofia) <br/>
+[Carlos Eduardo Ribeiro](https://caduribeiroblog.wordpress.com/author/caduribeiroufabc/) <br/>
+Marine de Souza Pereira - Geralmente usa Dropbox. Ainda não localizado. <br/>
+Matteo Raschietti - Geralmente usa Facebook. Ainda não localizado. <br/>
+
+#### Interpretações do Brasil
+
+[Maria Caramez Carlotto](https://interpretacoesdobrasil.wordpress.com/) <br/>
+Patricia Helena Fernandes Cunha - Geralmente usa Site. Ainda não localizado. <br/>
+Beatriz Tamaso Mioto - Ainda não localizado. <br/>
+Maria Gabriela da S. M. Da C. Marinho - Geralmente usa Drive. Ainda não localizado. <br/>
+
+#### Estado e Relações de Poder
+
+[Ivan Filipe de Almeida Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/disciplinas/bch-bct/erp) <br/>
+[Vitor Emanuel Marchetti Ferraz Junior](https://ufabcerp.wordpress.com/) <br/>
+Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
+
 ---
 
 ## Livros
