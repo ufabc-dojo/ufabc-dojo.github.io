@@ -1,13 +1,7 @@
 ![ufabc-dojo](https://i.imgur.com/VG8GxxI.jpg)
 
 <p align="center">
-hello, this is ufabc.dojo website repo! 
-<p/>
-
-
-<p align="center"
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
->
+hello, this is ufabc.dojo website repo.
 <p/>
 
 <p align="center"
@@ -27,10 +21,30 @@ hello, this is ufabc.dojo website repo!
 >
 </p>
 
+---
+
+### :computer: about us
+
+**ufabc.dojo** is the community you've always dreamed of.
+
+Inspired by the hackerspace concept, the objective of **ufabc.dojo** is to promote *hands-on* meetups to learn programming languages, databases, OSes, project methodologies, good development practices and obscure memes, aside developing various projects.
+
+Join us!
 
 ---
 
-### Built with
+### :notebook: ufabc.dojo manifesto
+
+
+1. **If the information isn't free, explode the chains!;** access to our meetups will be universal. If the access is restritive, recreate the original event and make it accessible. Don't be ashamed, we need newcomers, you are more than welcome. *we cherish stderr over stdout.*
+2. **If the information isn't isonomic, complain on Twitter!;** every decision must be made regardless of any cognitive biases, such as academic degrees, race, gender, religion, socio-politic position, available times or favorite operational system. *we cherish portability over functionality.*
+3. **If the information is sleeping, wake it up with a bucket of cold water;** we don't have a traditional organizational structure and welcome any disruptive attitudes. Don't say 'please', say 'sorry'. Just begin. Don't let ufabc.dojo die. *we cherish code over documentation.*
+4. **If the information doesn't like anything included here, burn this manifesto;** rules exist to not be followed.
+
+
+---
+
+### :wrench: built with
 
 - HTML + CSS + JS;
 - [Materialize CSS](https://materializecss.com/);
@@ -38,7 +52,7 @@ hello, this is ufabc.dojo website repo!
 
 ---
 
-### Contributing
+### :hearts: contributing
 
 For bug fixes, documentation improvements, translations and simple changes, just make a PR. <br/>
 
@@ -55,7 +69,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ---
 
-### License 
+### :page_facing_up: license 
 
 This project is licensed under the Dojo Public License (DPL) v2 - see the LICENSE.md file for details.
 
