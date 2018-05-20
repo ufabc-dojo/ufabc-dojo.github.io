@@ -1,4 +1,21 @@
-.introCode {
+.introCodeI {
+	text-align: justify;
+	text-indent: 25px;
 	line-height: 1.5;
 	font-family: sans-serif;
+}
+
+.introCode {
+	text-align: justify;
+	line-height: 1.5;
+	font-family: sans-serif;
+}
+
+table,th,td{
+	border: 1px solid black;
+	text-align: center;
+}
+
+a{
+	target="_blank"
 }
