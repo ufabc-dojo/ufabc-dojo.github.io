@@ -30,6 +30,7 @@ Geralmente, para comunicar-se com os alunos, a tendência é que os professores 
 [Gisele Cristina Ducati](https://tinyurl.com/bmducati) <br/>
 [Eduardo Gueron](https://tinyurl.com/bmgueron) <br/>
 [Tatiana Skoraia](https://tinyurl.com/bmskoraia) <br/>
+ <br/>
 Guilherme da Costa Pereira Innocenti - não localizado. <br/>
 Valdecir Marvulle - não localizado <br/>
 Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado) <br/>
@@ -43,6 +44,7 @@ Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado
 [Ricardo da Silva Benedito](https://sites.google.com/site/bcericardobenedito/) <br/>
 [Jeroen Schoenmaker](https://sites.google.com/site/basesconceituaisdaenergia/) <br/>
 [Pedro Carlos Russo Rossi](https://sites.google.com/site/bacoenufabc/)<br/>
+ <br/>
 Daniel Jonas Dezan - não localizado <br/>
 Maurício Guerreiro Martinho dos Santos - geralmente usa SITE (ainda não criado/localizado) <br/>
 
@@ -51,6 +53,7 @@ Maurício Guerreiro Martinho dos Santos - geralmente usa SITE (ainda não criado
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
 [Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <br/>
+ <br/>
 Luciana Campos Paulino - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Jiri Borecky - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Carlos Suetoshi Miyazawa - geralmente usa GMAIL (ainda não criado/localizado) <br/>
@@ -67,12 +70,13 @@ Meiri Aparecida Miranda - não localizado <br/>
 [Pieter Willem Westera](http://professor.ufabc.edu.br/~pieter.westera/) <br/>
 [Marcelo Augusto Leigui de Oliveira](http://professor.ufabc.edu.br/~leigui/disciplinas/index.html) <br/>
 [Fanny Nascimento Costa](https://sites.google.com/site/fannycosta/) <br/>
+ <br/>
 José Carlos Rodrigues Silva - cria grupo no Google (lol) <br/>
 Julian Andres Munevar Cagiga - não localizado <br/>
 Hueder Paulo Moisés de Oliveira - não localizado <br/>
 Sérgio Henrique Bezerra de Sousa Leal - não localizado <br/>
 Marcos Donizeti Sampaio - geralmente usa TIDIA (ainda não criado/localizado) <br/>
-Débora Alvim - não localizado <br/>
+Débora Alvim - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Rafael Cava Mori - não localizado <br/>
 Alexsandre Figueiredo Lago - não localizado <br/>
 Fernanda de Lourdes Souza - não localizado <br/>
@@ -81,6 +85,9 @@ Gustavo Morari do Nascimento - não localizado <br/>
 #### Bases Computacionais da Ciência
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/375859532463962/) <br/>
+Karla Vittori - TIDIA: Bases_SA_Diurno_2018.2 <br/>
+Vladimir Emiliano Moreira Rocha - TIDIA: BasesComp-Q2-2018 <br/>
+<br/>
 Ronaldo Carlos Prati - usa TIDIA (ainda não criado) <br/>
 Magda Aparecida Silvério Miyashiro - não localizado <br/>
 Celso Setsuo Kurashima - não localizado <br/>
@@ -93,8 +100,6 @@ Francisco José Fraga da Silva - não localizado <br/>
 Monael Pinheiro Ribeiro - não localizado <br/>
 Harlen Costa Batagelo - não localizado <br/>
 Denis Morgato Martin - não localizado <br/>
-Vladimir Emiliano Moreira Rocha - não localizado <br/>
-Karla Vittori - não localizado <br/>
 Yossi Zana - não localizado <br/>
 Silvia Cristina Dotta - não localizado <br/>
 André Mascioli Cravo - usa TIDIA (ainda não criado) <br/>
@@ -114,6 +119,9 @@ Denis Gustavo Fantinato - não localizado <br/>
 #### Ciência, Tecnologia e Sociedade
 
 Angela Terumi Fushita - TIDIA: CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/>
+<br/>
+Lucas da Silva Tasquetto - não localizado <br/>
+Guilherme Fraguas Nobre - não localizado <br/>
 
 #### Identidade e Cultura
 
@@ -125,12 +133,14 @@ Angela Terumi Fushita - TIDIA: CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/
 [Roque da Costa Caiero](http://roquecaiero.wixsite.com/logica-filosofia/temas-em-filosofia) <br/>
 [Suze de Oliveira Piza](https://sites.google.com/site/suzepizaufabc/home/temas-e-problemas-da-filosofia) <br/>
 [Carlos Eduardo Ribeiro](https://caduribeiroblog.wordpress.com/author/caduribeiroufabc/) <br/>
+ <br/>
 Marine de Souza Pereira - Geralmente usa Dropbox. Ainda não localizado. <br/>
 Matteo Raschietti - Geralmente usa Facebook. Ainda não localizado. <br/>
 
 #### Interpretações do Brasil
 
 [Maria Caramez Carlotto](https://interpretacoesdobrasil.wordpress.com/) <br/>
+ <br/>
 Patricia Helena Fernandes Cunha - Geralmente usa Site. Ainda não localizado. <br/>
 Beatriz Tamaso Mioto - Ainda não localizado. <br/>
 Maria Gabriela da S. M. Da C. Marinho - Geralmente usa Drive. Ainda não localizado. <br/>
@@ -139,6 +149,7 @@ Maria Gabriela da S. M. Da C. Marinho - Geralmente usa Drive. Ainda não localiz
 
 [Ivan Filipe de Almeida Lopes Fernandes](https://sites.google.com/site/ivanfilipefernandes/disciplinas/bch-bct/erp) <br/>
 [Vitor Emanuel Marchetti Ferraz Junior](https://ufabcerp.wordpress.com/) <br/>
+ <br/>
 Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 
 ---
