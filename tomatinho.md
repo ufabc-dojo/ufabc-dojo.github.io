@@ -156,13 +156,17 @@ Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 
 ## Livros
 
----
-
-## Provas Antigas
+[Apostila de BCC](http://prograd.ufabc.edu.br/images/pdf/bases_computacionais_livro.pdf) <br/>
 
 ---
 
 ## Listas de Exercícios
+
+[Resolução da Apostila de BCC](https://drive.google.com/open?id=1nZtdZNiRHheXEHMbZCtU5nEzxoixlYc5) <br/>
+
+---
+
+## Provas Antigas
 
 ---
 
