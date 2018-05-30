@@ -170,6 +170,20 @@ Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 
 ---
 
+## calendário de provas?!
+
+| Disciplina | Professor | +infos | Dia | 
+| :-------------: |:-------------:| :-------------:|  :-------------:|
+| BM | Faustino | P1 | 11/07 |
+| TPF | Roque | P1 | 11/07 |
+| BM | Faustino | P2 | 15/08 |   
+| TPF | Roque | P2 | 15/08 |
+| BM | Faustino | PSUB | 22/08 |
+| TPF | Roque | PREC | 27/08 |
+| BM | Faustino | PREC | Próximo Quad. |
+
+---
+
 ## Guias Aleatórios dos Legumes
 
 [Projeto Pedagógico do BCT Resumido](https://drive.google.com/open?id=1gXaJoiYTfjruzTEsMsX7PxU3zYVIYRwV) <br/>
