@@ -86,18 +86,19 @@ Gustavo Morari do Nascimento - não localizado <br/>
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/375859532463962/) <br/>
 [Carlo Kleber](https://www.facebook.com/groups/375859532463962/) - TIDIA: B. Comp. Ciência - Prof. Carlo Kleber <br/>
+[Alexandre Noma](https://sites.google.com/site/alexnoma/home/bc) <br/>
+[Carla Negri](http://professor.ufabc.edu.br/~carla.negri/cursos/) <br/>
 Karla Vittori - TIDIA: Bases_SA_Diurno_2018.2 <br/>
 Vladimir Emiliano Moreira Rocha - TIDIA: BasesComp-Q2-2018 <br/>
-Silvia Cristina Dotta - TIDIA:  Bases Computacionais - Profa. Silvia Dotta <br/>
-Natália Emelianova - TIDIA:  Bases Computacionais 2018 Q2 <br/>
+Silvia Cristina Dotta - TIDIA: Bases Computacionais - Profa. Silvia Dotta <br/>
+Natália Emelianova - TIDIA: Bases Computacionais 2018 Q2 <br/>
+Magda Aparecida S. Miyashiro - TIDIA: BCC-SB-2018-Magda 8 as 10 <br/>
 <br/>
 Ronaldo Carlos Prati - usa TIDIA (ainda não criado) <br/>
-Magda Aparecida Silvério Miyashiro - não localizado <br/>
 Celso Setsuo Kurashima - não localizado <br/>
 André Kazuo Takahata - não localizado <br/>
 Claudio Nogueira de Meneses - não localizado <br/>
-Saul de Castro Leite - não localizado <br/>
-Alexandre Noma - não localizado <br/>
+Saul de Castro Leite - não localizado <br/> 
 Francisco José Fraga da Silva - não localizado <br/>
 Monael Pinheiro Ribeiro - não localizado <br/>
 Harlen Costa Batagelo - não localizado <br/>
@@ -105,11 +106,10 @@ Denis Morgato Martin - não localizado <br/>
 Yossi Zana - não localizado <br/>
 André Mascioli Cravo - usa TIDIA (ainda não criado) <br/>
 Juliana Cristina Braga - não localizado <br/>
-Carlos da Silva Santos - não localizado <br/>
+Carlos da Silva Santos - usa TIDIA (ainda não criado/localizado) <br/>
 Edson Pinheiro Pimentel - não localizado <br/>
 Rogério Perino de Neves - usa TIDIA (ainda não criado) <br/>
 Ailton Paulo de Oliveira Junior - não localizado <br/>
-Carla Negri Lintzmeyer - não localizado <br/>
 Denis Gustavo Fantinato - não localizado <br/>
 
 #### Base Experimental das Ciências Naturais
@@ -157,6 +157,7 @@ Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 ## Livros
 
 [Apostila de BCC](http://prograd.ufabc.edu.br/images/pdf/bases_computacionais_livro.pdf) <br/>
+[Apostila de BECN](https://drive.google.com/file/d/1-cr37Ij8qwPI1v821tLR9R5JzxrqK2Fp/view?usp=sharing) <br/>
 
 ---
 
@@ -176,13 +177,16 @@ Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 | :-------------: |:-------------:| :-------------:|  :-------------:|
 | BCC | Emelianova | P1 | 03/07 |
 | BCC | Dotta | P1 | 03/07 |
+| BCC | Noma (3a) | P1 | 03/07 |
+| BCC | Noma (5a) | P1 | 05/07 |
 | BM | Faustino | P1 | 11/07 |
 | TPF | Roque | P1 | 11/07 |
 | BCC | Carlo | P1 | 12/07 |
+| BCC | Noma (3a) | P2 | 31/07 |
+| BCC | Noma (5a) | P2 | 02/08 |
 | BCC | Carlo | P2 | 02/08 |
 | BCC | Emelianova | P2 | 07/08 |
-| BCC | Carlo | Projeto | 09/08 |
-| BCC | Dotta | P2/Projeto | 09/08 |
+| BCC | Dotta | P2 | 09/08 |
 | CTS | Ângela | Prova | 14/08 |
 | BCC | Emelianova | PSUB | 14/08 |
 | BM | Faustino | P2 | 15/08 |   
@@ -190,7 +194,9 @@ Carolina Gabas Stuchi - Geralmente usa Drive. Ainda não localizado. <br/>
 | BCC | Carlo | PSUB | 16/08 |
 | BCC | Dotta | PSUB | 16/08 |
 | BCC | Emelianova | PREC | 21/08 |
+| BCC | Noma (3a) | PREC | 21/08 |
 | BM | Faustino | PSUB | 22/08 |
+| BCC | Noma (5a) | PREC | 23/08 |
 | BCC | Dotta | PREC | 23/08 |
 | BCC | Carlo | PREC | 23/08 |
 | TPF | Roque | PREC | 27/08 |
