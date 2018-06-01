@@ -32,7 +32,7 @@ Geralmente, para comunicar-se com os alunos, a tendência é que os professores 
 [Tatiana Skoraia](https://tinyurl.com/bmskoraia) <br/>
  <br/>
 Guilherme da Costa Pereira Innocenti - não localizado. <br/>
-Valdecir Marvulle - não localizado <br/>
+Valdecir Marvulle - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado) <br/>
 
 #### Bases Conceituais da Energia
@@ -45,16 +45,16 @@ Antonio Gil Vicente de Brum - geralmente usa GMAIL (ainda não criado/localizado
 [Jeroen Schoenmaker](https://sites.google.com/site/basesconceituaisdaenergia/) <br/>
 [Pedro Carlos Russo Rossi](https://sites.google.com/site/bacoenufabc/)<br/>
  <br/>
-Daniel Jonas Dezan - não localizado <br/>
-Maurício Guerreiro Martinho dos Santos - geralmente usa SITE (ainda não criado/localizado) <br/>
+Daniel Jonas Dezan - geralmente usa TIDIA (ainda não criado/localizado) <br/>
+Maurício Guerreiro Martinho dos Santos - (ainda não criado/localizado) <br/>
 
 #### Evolução e Diversificação da Vida na Terra 
 
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
 [Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <br/>
+Luciana Campos Paulino - TIDIA: NA1BIL0304-15SA 2Q2018 <br/>
  <br/>
-Luciana Campos Paulino - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Jiri Borecky - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Carlos Suetoshi Miyazawa - geralmente usa GMAIL (ainda não criado/localizado) <br/>
 Daniel Carneiro Carrettiero - geralmente usa TIDIA (ainda não criado/localizado) <br/>
@@ -62,7 +62,7 @@ Fabiana Rodrigues Costa Nunes - não localizado <br/>
 Ricardo Jannini Sawaya  não localizado <br/>
 Ana Paula de Moraes - não localizado <br/>
 Márcio de Souza Werneck - não localizado <br/>
-Meiri Aparecida Miranda - não localizado <br/>
+Meiri Aparecida Miranda - geralmente usa SITE (ainda não criado/localizado) <br/>
 
 #### Estrutura da Matéria
 
