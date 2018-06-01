@@ -63,7 +63,7 @@ Ricardo Jannini Sawaya  não localizado <br/>
 Ana Paula de Moraes - não localizado <br/>
 Márcio de Souza Werneck - não localizado <br/>
 Meiri Aparecida Miranda - geralmente usa SITE (ainda não criado/localizado) <br/>
-
+    
 #### Estrutura da Matéria
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/238814452879833/) <br/>
