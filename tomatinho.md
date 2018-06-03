@@ -52,7 +52,7 @@ Maurício Guerreiro Martinho dos Santos - (ainda não criado/localizado) <br/>
 
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
-[Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <b
+[Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <br/>
 Jiri Borecky - TIDIA: BIL0304-15-EDVT <br/>
 Luciana Campos Paulino - TIDIA: NA1BIL0304-15SA 2Q2018 <br/>
  <br/>
