@@ -52,17 +52,18 @@ Maurício Guerreiro Martinho dos Santos - (ainda não criado/localizado) <br/>
 
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
-[Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <br/>
+[Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <b
+Jiri Borecky - TIDIA: BIL0304-15-EDVT <br/>
 Luciana Campos Paulino - TIDIA: NA1BIL0304-15SA 2Q2018 <br/>
  <br/>
-Jiri Borecky - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Carlos Suetoshi Miyazawa - geralmente usa GMAIL (ainda não criado/localizado) <br/>
 Daniel Carneiro Carrettiero - geralmente usa TIDIA (ainda não criado/localizado) <br/>
-Fabiana Rodrigues Costa Nunes - não localizado <br/>
-Ricardo Jannini Sawaya  não localizado <br/>
 Ana Paula de Moraes - não localizado <br/>
+Otto Muller - não localizado <br/>
 Márcio de Souza Werneck - não localizado <br/>
 Meiri Aparecida Miranda - geralmente usa SITE (ainda não criado/localizado) <br/>
+Renata de Paula Orofino Silva  - não localizado <br/>
+Luciana Aparecida Palharini  - não localizado <br/>
     
 #### Estrutura da Matéria
 
@@ -72,20 +73,20 @@ Meiri Aparecida Miranda - geralmente usa SITE (ainda não criado/localizado) <br
 [Fanny Nascimento Costa](https://sites.google.com/site/fannycosta/) <br/>
  <br/>
 José Carlos Rodrigues Silva - cria grupo no Google (lol) <br/>
-Julian Andres Munevar Cagiga - não localizado <br/>
+Julian Andres Munevar Cagigas - não localizado <br/>
 Hueder Paulo Moisés de Oliveira - não localizado <br/>
 Sérgio Henrique Bezerra de Sousa Leal - não localizado <br/>
 Marcos Donizeti Sampaio - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Débora Alvim - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Rafael Cava Mori - não localizado <br/>
-Alexsandre Figueiredo Lago - não localizado <br/>
+Thiago Matias - não localizado <br/>
 Fernanda de Lourdes Souza - não localizado <br/>
 Gustavo Morari do Nascimento - não localizado <br/>
 
 #### Bases Computacionais da Ciência
 
 [Grupo no Facebook da Disciplina](https://www.facebook.com/groups/375859532463962/) <br/>
-[Carlo Kleber](https://www.facebook.com/groups/375859532463962/) - TIDIA: B. Comp. Ciência - Prof. Carlo Kleber <br/>
+[Carlo Kleber](https://sites.google.com/site/carlokleber/estruturas-de-dados) - TIDIA: B. Comp. Ciência - Prof. Carlo Kleber <br/>
 [Alexandre Noma](https://sites.google.com/site/alexnoma/home/bc) <br/>
 [Carla Negri](http://professor.ufabc.edu.br/~carla.negri/cursos/) <br/>
 Karla Vittori - TIDIA: Bases_SA_Diurno_2018.2 <br/>
@@ -93,6 +94,7 @@ Vladimir Emiliano Moreira Rocha - TIDIA: BasesComp-Q2-2018 <br/>
 Silvia Cristina Dotta - TIDIA: Bases Computacionais - Profa. Silvia Dotta <br/>
 Natália Emelianova - TIDIA: Bases Computacionais 2018 Q2 <br/>
 Magda Aparecida S. Miyashiro - TIDIA: BCC-SB-2018-Magda 8 as 10 <br/>
+Mirtha Lina Fernandez - TIDIA:BC005-Q2-2018-Mirtha <br/>
 <br/>
 Ronaldo Carlos Prati - usa TIDIA (ainda não criado) <br/>
 Celso Setsuo Kurashima - não localizado <br/>
@@ -102,15 +104,16 @@ Saul de Castro Leite - não localizado <br/>
 Francisco José Fraga da Silva - não localizado <br/>
 Monael Pinheiro Ribeiro - não localizado <br/>
 Harlen Costa Batagelo - não localizado <br/>
-Denis Morgato Martin - não localizado <br/>
+Daniel Morgato Martin - não localizado <br/>
+Denis Gustavo Fantinato - não localizado <br/>
 Yossi Zana - não localizado <br/>
 André Mascioli Cravo - usa TIDIA (ainda não criado) <br/>
-Juliana Cristina Braga - não localizado <br/>
 Carlos da Silva Santos - usa TIDIA (ainda não criado/localizado) <br/>
 Edson Pinheiro Pimentel - não localizado <br/>
-Rogério Perino de Neves - usa TIDIA (ainda não criado) <br/>
-Ailton Paulo de Oliveira Junior - não localizado <br/>
-Denis Gustavo Fantinato - não localizado <br/>
+Ailton Paulo de Oliveira Junior - usa TIDIA (ainda não criado) <br/>
+Paulo Joia Filho - não localizado <br/>
+David Correa Martins Junior - não localizado <br/>
+Alexandre Donizete Alves - não localizado <br/>
 
 #### Base Experimental das Ciências Naturais
 
@@ -119,9 +122,9 @@ Denis Gustavo Fantinato - não localizado <br/>
 #### Ciência, Tecnologia e Sociedade
 
 Angela Terumi Fushita - TIDIA: CTS.2018.2.DA2.Angela & CTS.2018.2.DB.Angela <br/>
+Guilherme Fraguas Nobre - TIDIA: CTS2018 <br/>
 <br/>
 Lucas da Silva Tasquetto - não localizado <br/>
-Guilherme Fraguas Nobre - não localizado <br/>
 
 #### Identidade e Cultura
 
@@ -140,9 +143,9 @@ Matteo Raschietti - Geralmente usa Facebook. Ainda não localizado. <br/>
 #### Interpretações do Brasil
 
 [Maria Caramez Carlotto](https://interpretacoesdobrasil.wordpress.com/) <br/>
+Beatriz Tamaso Mioto - TIDIA: IBMIOTO2018 <br/>
  <br/>
 Patricia Helena Fernandes Cunha - Geralmente usa Site. Ainda não localizado. <br/>
-Beatriz Tamaso Mioto - Ainda não localizado. <br/>
 Maria Gabriela da S. M. Da C. Marinho - Geralmente usa Drive. Ainda não localizado. <br/>
 
 #### Estado e Relações de Poder
