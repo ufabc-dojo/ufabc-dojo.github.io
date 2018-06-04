@@ -1,0 +1,90 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+
+    overflow-y: hidden; /* GAMBIARRAAAA */
+}
+
+.valign-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.valign {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#theBuildings {
+    padding: 5px;
+    width: 40vw;
+    height: 40vh;
+
+    margin-top: 10%;
+}
+
+.middle {
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+#blocoA {
+    display: flex;
+    position: relative;
+    width: 70%;
+    height: 40%;
+    top: 60%;
+}
+
+#torre1 {
+    display: flex;
+    position: sticky;
+    width: 20%;
+    height: 50%;
+    bottom: 40%;
+
+    line-height: 50%;
+    vertical-align: middle;
+}
+
+#torre2 {
+    display: flex;
+    position: sticky;
+    width: 20%;
+    height: 50%;
+    bottom: 40%;
+    margin-left: 25%;
+
+    line-height: 50%;
+    vertical-align: middle;
+}
+
+#torre3 {
+    display: flex;
+    position: sticky;
+    width: 20%;
+    height: 50%;
+    bottom: 40%;
+    margin-left: 50%;
+
+    line-height: 50%;
+    vertical-align: middle;
+}
+
+#blocoB {
+    display: flex;
+    position: sticky;
+    width: 25%;
+    height: 100%;
+    bottom: 40%;
+    margin-left: 75%;
+
+    line-height: 100%;
+    vertical-align: middle;
+}
