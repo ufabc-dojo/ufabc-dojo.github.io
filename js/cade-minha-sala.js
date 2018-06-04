@@ -3,17 +3,13 @@ const BLOCO_A2 = /[SAL]\d\d\d-[0123]/i;
 const BLOCO_B = /[SAL]\d\d\d/i;
 
 const reset = () => {
-    $("#blocoA").text("Bloco A");
-    $("#blocoB").text("Bloco B");
-    $("#torre1").text("Torre 1");
-    $("#torre2").text("Torre 2");
-    $("#torre3").text("Torre 3");
-
     ["A", "B"].forEach((x) => {
+        $("#bloco" + x).text("Bloco " + x);
         $("#bloco" + x).css('background-color', 'initial');
     });
 
     ["1", "2", "3"].forEach((x) => {
+        $("#torre" + x).text("Torre " + x);
         $("#torre" + x).css('background-color', 'initial');
     });
 };
