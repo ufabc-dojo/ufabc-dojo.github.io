@@ -1,4 +1,5 @@
 const BLOCO_A = /[SAL]-\d\d\d-[0123]/i;
+const BLOCO_A2 = /[SAL]\d\d\d-[0123]/i;
 const BLOCO_B = /[SAL]\d\d\d/i;
 
 const reset = () => {
@@ -26,6 +27,24 @@ $(document).ready(() => {
         if(BLOCO_A.test(sala)) {
             const andar = sala.split('-')[1].charAt(0);
             const torre = sala.split('-')[2];
+
+            if(torre != "0") {
+                $("#torre" + torre).css({
+                    transition: 'background-color 0.5s ease-in-out',
+                    "background-color": "#4db6ac"
+                });
+
+                $("#torre" + torre).text("Torre " + torre + ", Andar " + andar);
+            } else {
+                $("#blocoA").css({
+                    transition: 'background-color 0.5s ease-in-out',
+                    "background-color": "#4db6ac"
+                });
+                $("#blocoA").text("Bloco A, Andar " + andar);
+            }
+        } else if (BLOCO_A2.test(sala)) {
+            const andar = sala.split('-')[0].charAt(1);
+            const torre = sala.split('-')[1];
 
             if(torre != "0") {
                 $("#torre" + torre).css({
