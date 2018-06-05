@@ -53,16 +53,16 @@ Maurício Guerreiro Martinho dos Santos - (ainda não criado/localizado) <br/>
 [Antônio Sérgio Kimus Braz](https://www.tinyurl.com/evkimus) - tb usa grupo no face <br/>
 [Fernando Zaniolo Gibran](https://www.tinyurl.com/evpeixe) <br/>
 [Guilherme Cunha Ribeiro](https://sites.google.com/site/guilhermecunharibeiro/home/origens-da-vida-1) <br/>
+[Otto Muller](http://edvtufabc.blogspot.com/?m=1) <br/>
+[Meiri Aparecida](https://sites.google.com/view/edvt-meirimiranda) <br/>
+[Renata de Paula Orofino Silva](https://sites.google.com/view/renaslab/graduacao/2018edvt)<br/>
 Jiri Borecky - TIDIA: BIL0304-15-EDVT <br/>
 Luciana Campos Paulino - TIDIA: NA1BIL0304-15SA 2Q2018 <br/>
+Daniel Carneiro Carrettiero - TIDIA: DB4BIL0304-15SA <br/>
  <br/>
 Carlos Suetoshi Miyazawa - geralmente usa GMAIL (ainda não criado/localizado) <br/>
-Daniel Carneiro Carrettiero - geralmente usa TIDIA (ainda não criado/localizado) <br/>
 Ana Paula de Moraes - não localizado <br/>
-Otto Muller - não localizado <br/>
 Márcio de Souza Werneck - não localizado <br/>
-Meiri Aparecida Miranda - geralmente usa SITE (ainda não criado/localizado) <br/>
-Renata de Paula Orofino Silva  - não localizado <br/>
 Luciana Aparecida Palharini  - não localizado <br/>
     
 #### Estrutura da Matéria
